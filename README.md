@@ -1,7 +1,5 @@
 # Snapchat-Trend-Analysis
 
-This repository outlines the trend analysis performed on Snapchat's Daily Active Users (DAU) data.
-
 ## Analysis Steps:
 
 1. Data Collection: Data on Snapchat's DAU growth from 2012 to 2024 was collected.
